@@ -1,5 +1,20 @@
 /* Your Website Styles */
+img {
+	width: 400px;
+}
+h1 {
+	color: orange;
+	text-shadow: 10px 10px 10px black;
+}
 
+#food 
+{ background: red;}
+
+#course {background: blue; }
+
+.highlight {
+  background: yellow;
+}
 
 /* Show Grid */
 .showgrid {
