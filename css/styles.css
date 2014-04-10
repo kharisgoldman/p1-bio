@@ -1,7 +1,21 @@
 /* Your Website Styles */
+h1 {
+	color: lightcyan;
+	text-shadow: 5px 5px 5px  lightcyan;
+background-color: black;
+}
+img{
+	width: 400px;
+}
+#food 
+{ background: dimgray;}
 
+#course {background: paleturquoise; }
 
+.highlight {
+  background: silver;
+}
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	background: url("http://images2.layoutsparks.com/1/193748/black-white-heart-love.jpg") fixed;
 }
