@@ -1,22 +1,48 @@
 /* Your Website Styles */
-img {
-	width: 400px;
-}
 h1 {
-	color: orange;
-	text-shadow: 10px 10px 10px black;
+	color: lightcyan;
+	text-shadow: 5px 5px 5px  lightcyan;
+background-color: black;
+font-size: 1.750em;
+letter-spacing: -1.5px;
 }
+img{
+	width: 300px;
+	border: 10px dashed;
+	margin: 0 0 20px 0;
+}
+
 
 #food 
-{ background: red;}
+{ background: dimgray;}
 
-#course {background: blue; }
+#course {background: paleturquoise; }
 
 .highlight {
-  background: yellow;
+  background: silver;
 }
-
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	background: url("http://images2.layoutsparks.com/1/193748/black-white-heart-love.jpg") fixed no-repeat, white;
 }
+body{
+	font-family: 'Orbitron', sans-serif;
+
+}
+
+.btn {
+	color: #F3F315;
+	background: #BA01FF;
+	padding: 5px 10px;
+	margin: 30px 0px;
+	border-radius: 25px
+	text-transform: uppercase;
+}
+
+.btn:hover {
+	background-color: #AAE800;
+
+}
+
+
+
