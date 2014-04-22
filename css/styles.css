@@ -13,20 +13,18 @@ img{
 }
 
 
-#food 
-{ background: dimgray;}
 
-#course {background: paleturquoise; }
 
-.highlight {
-  background: silver;
-}
+#bio {color: lightcyan; }
+
+
 /* Show Grid */
 .showgrid {
 	background: url("http://images2.layoutsparks.com/1/193748/black-white-heart-love.jpg") fixed no-repeat, white;
 }
 body{
 	font-family: 'Orbitron', sans-serif;
+	color: lightcyan;
 
 }
 
