@@ -1,10 +1,12 @@
 /* Your Website Styles */
 h1 {
+	
 	color: lightcyan;
 	text-shadow: 5px 5px 5px  lightcyan;
 background-color: black;
 font-size: 1.750em;
 letter-spacing: -1.5px;
+;
 }
 img{
 	width: 300px;
@@ -13,20 +15,20 @@ img{
 }
 
 
-#food 
-{ background: dimgray;}
 
-#course {background: paleturquoise; }
 
-.highlight {
-  background: silver;
-}
+#bio {color: black; 
+
+font-family: 'Orbitron', sans-serif;
+	}
+
+
 /* Show Grid */
 .showgrid {
 	background: url("http://images2.layoutsparks.com/1/193748/black-white-heart-love.jpg") fixed no-repeat, white;
 }
 body{
-	font-family: 'Orbitron', sans-serif;
+	font-family: 'Lobster', sans-serif;
 
 }
 
@@ -43,6 +45,10 @@ body{
 	background-color: #AAE800;
 
 }
+
+
+
+
 
 
 
